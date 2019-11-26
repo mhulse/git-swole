@@ -2,8 +2,8 @@
 name: 3-day routine
 about: For weeks when I have more time
 title: Week of MONTH DAY
-labels: ''
-assignees: ''
+labels: 3-day
+assignees: mhulse
 
 ---
 
