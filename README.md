@@ -1,6 +1,18 @@
-# git-swole
+# git SWOLE!
 
-My Gym Exercise Workout Weight Lifting Routine
+**My Gym Exercise Workout Weight Lifting Routine**
+
+## Create
+
+Routine should be a 3-day schedule, but if time does not permit, switch to a 2-day routine.
+
+**There should be a 1-day rest period** between routine days.
+
+Each exercise should be five sets of 10 reps.
+
+For free weights, start with no weights, and add weight for each set.
+
+Never add so much weight that your form is thrown off.
 
 ## Videos
 
