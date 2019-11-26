@@ -1,7 +1,7 @@
 ---
 name: 2-day routine
 about: Describe this issue template's purpose here.
-title: Week of MONTH DAY
+title: Week of Mmm DD, YYYY
 labels: 2-day, routine
 assignees: mhulse
 

@@ -1,7 +1,7 @@
 ---
 name: 3-day routine
 about: For weeks when I have more time
-title: Week of MONTH DAY
+title: Week of Mmm DD, YYYY
 labels: 3-day, routine
 assignees: mhulse
 
