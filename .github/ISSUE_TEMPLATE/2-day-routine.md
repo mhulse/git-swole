@@ -32,8 +32,7 @@ Never add so much weight that your form is thrown off.
 
 - [ ] Machine Abdominal Crunch
 - [ ] Standing Calf Raise
-- [ ] Standing Machine Row
-- [ ] Dumbbell Lunge ([example](https://youtu.be/D7KaRcUTQeE?t=15))
+- [ ] Standing Machine Row ([example](https://youtu.be/9WqYx0E4Lbc))
 
 ## Day 2
 
@@ -49,9 +48,12 @@ Never add so much weight that your form is thrown off.
 - [ ] Machine Abdominal Crunch
 - [ ] Standing Calf Raise
 - [ ] Standing Machine Row ([example](https://youtu.be/9WqYx0E4Lbc))
+
+## Optional exercises
+
 - [ ] Dumbbell Lunge ([example](https://youtu.be/D7KaRcUTQeE?t=15))
 
-## Optinal Stretches
+## Optional stretches
 
 - Side-Lying Leg Lift ([example](https://www.youtube.com/watch?v=jgh6sGwtTwk))
 - Lying Chin Tuck ([example](https://www.youtube.com/watch?v=55SerJvGbV4))
