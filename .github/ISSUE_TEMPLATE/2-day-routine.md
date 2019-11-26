@@ -51,7 +51,7 @@ Never add so much weight that your form is thrown off.
 
 ## Optional exercises
 
-- [ ] Dumbbell Lunge ([example](https://youtu.be/D7KaRcUTQeE?t=15))
+- Dumbbell Lunge ([example](https://youtu.be/D7KaRcUTQeE?t=15))
 
 ## Optional stretches
 
