@@ -1,6 +1,6 @@
 ---
 name: 2-day routine
-about: Describe this issue template's purpose here.
+about: For weeks when I don’t have much free time.
 title: Week of Mmm DD, YYYY
 labels: 2-day, routine
 assignees: mhulse

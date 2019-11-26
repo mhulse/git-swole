@@ -1,6 +1,6 @@
 ---
 name: 3-day routine
-about: For weeks when I have more time
+about: For the weeks when I have more free time.
 title: Week of Mmm DD, YYYY
 labels: 3-day, routine
 assignees: mhulse
